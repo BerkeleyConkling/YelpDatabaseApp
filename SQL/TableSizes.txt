@@ -1,0 +1,11 @@
+SELECT COUNT(*) FROM business: 11481
+
+SELECT COUNT(*) FROM category:226
+
+SELECT COUNT(*) FROM review:416479
+
+SELECT COUNT(*) FROM checkin: 168
+
+SELECT COUNT(*) FROM zipcode: 32630
+
+SELECT COUNT(*) FROM businesscategory: 33619
